@@ -54,11 +54,16 @@ What sets me apart is my **360° approach**: backed by certifications in **CCNA 
 
 - **CCNA (Cisco Certified Network Associate)** - Advanced networking, routing, and switching
 - **Cybersecurity Auditing** - Risk assessment, security controls, and compliance frameworks
+  
 ---
+
 ## 📊 GitHub Analytics
 <div align="center">
+  
 [![Wanxiturro Streak](https://github-readme-streak-stats.herokuapp.com?user=wanxiturro)](https://git.io/streak-stats)
+
 </div>
+
 ---
 
 ## 📫 Let's Connect
