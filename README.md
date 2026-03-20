@@ -2,9 +2,13 @@
 ![Header](./logo.png)
 
 <div align="center">
+  
 # Hey, I'm wanxiturro 
+  
 Computer Engineer with **4+ years of technical experience** in the full software development lifecycle and infrastructure management. I specialize in the **JavaScript ecosystem** (Next.js, Node.js) and **mobile development with Flutter**, building robust and scalable applications.
+
 </div>
+
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,dart,py)](https://skillicons.dev)
 
