@@ -7,7 +7,7 @@
   
 Computer Engineer with **4+ years of technical experience** in the full software development lifecycle and infrastructure management. I specialize in the **JavaScript ecosystem** (Next.js, Node.js) and **mobile development with Flutter**, building robust and scalable applications.
 
-</div>
+
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,dart,py)](https://skillicons.dev)
@@ -18,6 +18,7 @@ Computer Engineer with **4+ years of technical experience** in the full software
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,postman,nginx,wordpress)](https://skillicons.dev)
 
+</div>
 
 ---
 ## 🚀 About Me
