@@ -35,6 +35,7 @@ What sets me apart is my **360° approach**: backed by certifications in **CCNA 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
+  
 | Category | Technologies |
 |----------|--------------|
 | **Frontend** | Next.js, React.js, HTML5, CSS3, Tailwind CSS |
@@ -44,6 +45,7 @@ What sets me apart is my **360° approach**: backed by certifications in **CCNA 
 | **Networking** | CCNA (Routing & Switching), Wireshark, TCP/IP, VLANs |
 | **Cybersecurity** | Security Auditing, OWASP Top 10, Risk Assessment, Basic Pentesting |
 | **DevOps & Tools** | Git, GitHub, Docker, Linux, Postman, VS Code |
+
 </div>
 
 ---
@@ -73,6 +75,7 @@ Interested in collaborating or have a project in mind? I'm open to new opportuni
 - 📧 **Email**: [wanxiturro@dev.com](mailto:juan.cumana@softwans.com)
 - 🌐 **Portfolio**: [wanxiturro.dev](https://wanxiturro.github.io/portfolio-needy/)
 <div align="center">
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=wanxiturro&color=blueviolet&style=flat-square&label=Profile+Views)
   
   [![GitHub followers](https://img.shields.io/github/followers/wanxiturro?style=social)](https://github.com/YOUR_USERNAME)
